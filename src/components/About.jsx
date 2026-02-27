@@ -13,9 +13,7 @@ const About = () => {
         <div className="container section-title">
         <h2>About</h2>
         <p>
-          Hi, I&apos;m Sujal Koju &mdash; a final-year Computer Engineering student curious about
-          software development and emerging technologies. I love turning theory into practice
-          through hands-on projects and am always eager to learn something new.
+          Hi, I&apos;m Sujal Koju &mdash; a final-year Computer Engineering student.I love building the logic and infrastructure that power applications—whether it’s designing APIs, optimizing databases, or creating intelligent features with machine learning. Diving into these areas keeps me curious and motivated, always eager to solve real problems and make an impact behind the scenes. Just another backend developer and AI/ML enthusiast in the block—here’s a little bit about myself.
         </p>
       </div>
 
