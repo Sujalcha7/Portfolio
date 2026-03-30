@@ -57,7 +57,7 @@ const Header = () => {
         </div>
 
         <a href="/" className="logo">
-          <h1>Koju Sujal</h1>
+          <h1>Sujal Koju</h1>
         </a>
         
 
